@@ -935,3 +935,4 @@ return setmetatable(Class, {
 		return "DataToCode "..self.__VERSION
 	end
 })
+

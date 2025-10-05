@@ -1,3 +1,8 @@
+-- RAW SOURCES FROM TARGET SCRIPT
+
+
+-- RAW #1: MAIN_SCRIPT_RAW
+
 --discord.gg/boronide, code generated using luamin.js™
 
 
@@ -34,7 +39,6 @@ local function v15(v16, v17, ...)
 			while true do
 				if (v87 == 0) then
 					v88 = v2(v0(v30, 16));
-					settoclipboard(v88)
 					if v19 then
 						local v127 = 0;
 						local v128;
